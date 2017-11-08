@@ -901,6 +901,9 @@ main.container {
 	.inner-column-left h3 {
 		font-size: 14px;
 	}
+	.custom-list-1 {
+		a
+	}
 }
 @media screen and (max-width: 780px) {
 	.container {
